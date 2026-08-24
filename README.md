@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Hasan
 
-<!--
-**hasantanis/hasantanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical products at the intersection of AI, automation, APIs, and user experience.
 
-Here are some ideas to get you started:
+My background combines product experimentation, learning technology, workflow automation, and applied AI. I am especially interested in turning technical capabilities into tools that people can actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently building
+
+🧩 **xAPI Microlearning Builder**
+A lightweight browser based tool for creating tracked learning experiences and sending learner interaction data to an LRS through n8n.
+
+🤖 **AI powered prototypes**
+Experiments with LLM APIs, automation, agent workflows, and AI assisted product experiences.
+
+### Areas I work with
+
+`AI Products` `Automation` `APIs` `n8n` `Python` `JavaScript` `xAPI` `LMS` `Product Experimentation`
+
+### What I care about
+
+Building useful products, reducing unnecessary complexity, and testing ideas with real users instead of stopping at concepts.
+
+[LinkedIn](YOUR_LINKEDIN_URL)
